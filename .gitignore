@@ -1,0 +1,14 @@
+﻿# Build output
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+*.ilk
+build/
+
+# Editor
+.vscode/
+
+# Never commit textbooks
+*.pdf
